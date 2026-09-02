@@ -25,3 +25,5 @@ Thumbs.db
 
 # Temporary files
 *.tmp
+# Windows system files
+desktop.ini
