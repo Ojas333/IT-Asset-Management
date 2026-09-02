@@ -1,5 +1,18 @@
 # IT Asset & Service Management System
 
+> Enterprise full-stack platform for managing IT assets, service requests, and IT operations through a centralized web dashboard.
+
+[![Java](https://img.shields.io/badge/Java-21-orange)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen)](https://spring.io/projects/spring-boot)
+[![React](https://img.shields.io/badge/React-Frontend-61DAFB)](https://react.dev/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-blue)](https://www.mysql.com/)
+[![REST API](https://img.shields.io/badge/API-REST-02569B)](https://restfulapi.net/)
+
+A full-stack IT asset management application designed to help organizations track hardware assets, assignments, service requests, and operational status from a centralized dashboard.
+
+
+# IT Asset & Service Management System
+
 A full-stack enterprise web application for managing IT assets, tracking asset allocation, monitoring asset status, and handling employee service requests through a centralized dashboard.
 
 Built using **React.js, Spring Boot, Java, REST APIs, and MySQL**.
