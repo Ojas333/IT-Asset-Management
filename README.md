@@ -469,20 +469,3 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 **GitHub Repository:**
 https://github.com/Ojas333/IT-Asset-Management
-## Screenshots
-
-### Login Page
-
-![Login Page](screenshots/login.png)
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Asset Inventory
-
-![Asset Inventory](screenshots/asset%20inventory.png)
-
-### Service Requests
-
-![Service Requests](screenshots/service%20request.png)
